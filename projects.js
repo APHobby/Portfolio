@@ -18,7 +18,7 @@ window.PROJECTS = [
     description: "1–2 lines: what it is, what you did, and what’s impressive about it.",
     tags: ["Blender", "Lighting", "Compositing"],
     thumb: { type: "text", text: "ANIMATION" }, // or { type:"image", src:"assets/xxx.webp" }
-    media: { type: "youtube", url: "https://www.youtube.com/watch?v=XXXX" },
+    media: { type: "video", src: "assets/comp.mp44" },
     links: [
       { label: "Instagram post", url: "https://www.instagram.com/" },
     ],
